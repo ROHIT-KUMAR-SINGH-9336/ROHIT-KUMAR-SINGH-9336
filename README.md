@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit singh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rohit singh](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/yoursmindseeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yoursmindseeker" height="30" width="40" /></a>
 <a href="https://instagram.com/tech.majdoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.majdoor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech.majdoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech.majdoor" height="30" width="40" /></a>
